@@ -350,6 +350,15 @@ label {
     margin-bottom: .5rem
 }
 
+@media (min-width: 40.0625em) {
+button {
+    width: auto;
+    margin-bottom: 32px;
+    font-size: 1.1875rem;
+    line-height: 1;
+}
+}
+
 button {
     font-family: open sans, -apple-system, BlinkMacSystemFont, segoe ui, Roboto, helvetica neue, Arial, sans-serif, apple color emoji, segoe ui emoji, segoe ui symbol;
     -webkit-font-smoothing: antialiased;
@@ -369,7 +378,7 @@ button {
     margin-bottom: 22px;
     padding: 8px 10px 7px;
     border: 2px solid transparent;
-    border-radius: 1;
+    border-radius: 3;
     color: #fff;
     background-color: #00703c;
     -webkit-box-shadow: 0 2px 0 #002d18;
