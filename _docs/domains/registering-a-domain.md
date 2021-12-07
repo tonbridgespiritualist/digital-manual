@@ -1,6 +1,6 @@
 ---
 title: Registering a domain
-permalink: /domains/registering-a-domain
+description: How to register a subdomain for use within your organisation
 ---
 
 # Registering a tonbridgespiritualist.com domain
