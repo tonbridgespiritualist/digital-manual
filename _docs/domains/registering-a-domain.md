@@ -17,11 +17,10 @@ The Secretary's Office maintains a list of organisations within tonbridgespiritu
 
 In terms of the naming on the subdomain, these are maintained by the Secretary's Office and therefore cannot be changed. If organisations want alternate subdomains, they will need to register a general subdomain with the appropriate address they would like.
 
----
-department: Secretary's Office
-shortcode: sec
-subdomain: sec.tonbridgespiritualist.com
----
+
+| Department | Secretary's Office            |
+| Shortcode  | sec                           |
+| Subdomain  | sec.tonbridgespiritualist.com |
 
 ### Registering a subdomain as a sub-organisation
 A sub-organisation within an organisation (for example, TSC Digital), the domain will be registered as a subdomain of the organisational domain, and using the **full organisational name** (for example, TSC Digital receive the domain digital.sec.tonbridgespiritualist.com), if the suborganisation would like a top-level subdomain, they will need to register a general subdomain.
@@ -29,13 +28,11 @@ A sub-organisation within an organisation (for example, TSC Digital), the domain
 ## Service subdomain
 Service domains are registered with TSC Digital directly. An organisation needs to provide the shortname which the service will be registered with on both tonbridgespiritualist.com and the subdomain, and the page and subdomain will be registered. Generic subdomains will be refered to the Secretary for final decisions (for example, Getting started with online virtual sessions is using the generic `get-started` shortname, the Secretary approved of this registration as the service was essential to the operation of the centre, although this subdomain was issued on the basis that it will be later returned voluntarily and will take on a new shortname.
 
----
-service: Get started with virtual centre sessions
-shortname: get-started
-subdomain: get-started.service.tonbridgespiritualist.com
-url: tonbridgespiritualist.com/get-started
-conditions: Returned when no longer needed
----
+| Service    | Get started with virtual centre sessions      |
+| Shortname  | get-started                                   |
+| Subdomain  | get-started.service.tonbridgespiritualist.com |
+| URL        | tonbridgespiritualist.com/get-started         |
+| Conditions | Returned when no longer needed                |
 
 ## General subdomain
 In some cases it may be necessary to register additional subdomains for specific purposes, whilst every attempt must be made to prevent registering additional subdomains, there may be a few reasons why:
