@@ -1,2 +1,2 @@
-# digital-manual
-Digital manual for tonbridgespiritualist.com
+# docs
+Documentation for TSC
